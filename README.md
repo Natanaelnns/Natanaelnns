@@ -1,6 +1,6 @@
 ### Olá! Eu sou Nathanael 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/natanael_nunes_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 ![Nathanael GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanaelnns&show_icons=true&theme=dracula)
 
